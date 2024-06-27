@@ -25,7 +25,3 @@
 
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Novpa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Novpa&repo=Pig-Game&theme=radical)](https://github.com/Novpa/Pig-Game)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Novpa&repo=Guess-My-Number-Game&theme=radical)](https://github.com/Novpa/Guess-My-Number-Game)
