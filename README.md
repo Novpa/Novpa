@@ -1,5 +1,5 @@
 # Hi there!
-## Novpa and I am a passionate Frond-End Developer! 👋
+## I'm Novpa, a passionate Frond-End Developer! 👋
 
 - I design, create, and manage the very interactive interface for professional Web Applications.
 - Find me in the GYM when I’m not coding!
