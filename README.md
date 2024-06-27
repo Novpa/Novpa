@@ -2,7 +2,7 @@
 ## I'm Novpa, a Passionate Front-End Developer
 
 - 🎨 I design, create, and manage highly interactive interfaces for professional web applications.
-- 💪 Find me in the gym when I’m not coding!
+- 🏋️ Find me in the gym when I’m not coding!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Novpa&color=brightgreen)
 
