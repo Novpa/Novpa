@@ -1,21 +1,35 @@
 # Hi there!
-## I'm Novpa, a passionate Frond-End Developer! 👋
+## I'm Novpa, a passionate Front-End Developer! 👋
 
-- I design, create, and manage the very interactive interface for professional Web Applications.
-- Find me in the GYM when I’m not coding!
+- 🎨 I design, create, and manage highly interactive interfaces for professional web applications.
+- 💪 Find me in the gym when I’m not coding!
 
-## Connect With Me!
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/novparodriguez/)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
 
-## My Programming Languages:
+## 🌐 Connect With Me!
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/novparodriguez/)
+
+## 🚀 My Skills
+### Programming Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-
-## My Frameworks:
+### Frameworks and Libraries:
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-## Pinned Repositories:
+## 📊 GitHub Stats
+![Novpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📌 Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Pig-Game&theme=radical)](https://github.com/your-username/Pig-Game)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Guess-My-Number-Game&theme=radical)](https://github.com/your-username/Guess-My-Number-Game)
