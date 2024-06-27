@@ -31,5 +31,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Pig-Game&theme=radical)](https://github.com/your-username/Pig-Game)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Guess-My-Number-Game&theme=radical)](https://github.com/your-username/Guess-My-Number-Game)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Pig-Game&theme=radical)](https://github.com/Novpa/Pig-Game)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Guess-My-Number-Game&theme=radical)](https://github.com/Novpa/Guess-My-Number-Game)
