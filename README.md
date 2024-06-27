@@ -1,5 +1,5 @@
 # Hi there!
-# Novpa and I am a passionate Frond-End Developer! 👋
+## Novpa and I am a passionate Frond-End Developer! 👋
 
 - I design, create, and manage the very interactive interface for professional Web Applications.
 - Find me in the GYM when I’m not coding!
@@ -9,7 +9,6 @@
 
 ## My Programming Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
