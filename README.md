@@ -21,11 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ## GitHub Stats
-![Novpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Novpa&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novpa&layout=compact&theme=radical)
-
-## GitHub Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Novpa&theme=radical)](https://git.io/streak-stats)
 
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Novpa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
