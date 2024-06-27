@@ -1,5 +1,5 @@
-# Hi there!
-## I'm Novpa, a passionate Front-End Developer! 👋
+# Hi there! 👋
+## I'm Novpa, a passionate Front-End Developer!
 
 - I design, create, and manage highly interactive interfaces for professional web applications.
 - Find me in the gym when I’m not coding!
@@ -23,5 +23,3 @@
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novpa&layout=compact&theme=radical)
 
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Novpa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
