@@ -31,3 +31,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novpa&layout=compact&theme=radical&hide_border=true)
 
 ---
+![Snake Game](https://github.com/Novpa/Novpa/blob/main/path/to/your/image.png)
