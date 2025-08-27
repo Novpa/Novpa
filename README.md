@@ -1,5 +1,5 @@
 # Hi there! 👋
-## I'm Novpa, a Passionate Front-End Developer
+## I'm Novpa, a Passionate Full Stack Developer
 
 - 🎨 I design, create, and manage highly interactive interfaces for professional web applications.
 - 🏋️ Find me in the gym when I’m not coding!
