@@ -28,9 +28,4 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novpa&layout=compact&theme=radical&hide_border=true)
-
----
 ![Snake Game](https://github.com/Novpa/Novpa/blob/main/github-snake.svg)
