@@ -27,9 +27,5 @@ Building things with code. Breaking things for fun. Fixing them at the gym.
 
 ---
 
-### Social
-[![IG](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/novparodriguez/)
-
----
 
 ![Snake Game](https://github.com/Novpa/Novpa/blob/main/github-snake.svg)
