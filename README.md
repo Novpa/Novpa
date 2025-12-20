@@ -8,7 +8,6 @@ Building things with code. Breaking things for fun. Fixing them at the gym.
 ### Tech Stack
 
 **Languages & Databases**
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -18,7 +17,6 @@ Building things with code. Breaking things for fun. Fixing them at the gym.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Frameworks & Libraries**
-
 ![React JS](https://img.shields.io/badge/React_JS-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
