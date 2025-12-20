@@ -1,8 +1,6 @@
 # Novpa
 **Self-Taught Developer sponsored by YouTube & Stack Overflow**
 
-Building things with code. Breaking things for fun. Fixing them at the gym.
-
 ---
 
 ### Tech Stack
