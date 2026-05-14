@@ -26,9 +26,3 @@
 
 
 ![Snake Game](https://github.com/Novpa/Novpa/blob/main/github-snake.svg)
-
-**GitHub Stats**
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novpa&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" />
-</p>
