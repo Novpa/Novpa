@@ -28,4 +28,4 @@
 ![Snake Game](https://github.com/Novpa/Novpa/blob/main/github-snake.svg)
 
 **Mother Tongue
-[![Top Langs](https://vercel.app)](https://github.com/novpa/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novpa&size_weight=0.5&count_weight=0.5)
