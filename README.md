@@ -18,8 +18,7 @@ class NovpaGithubProfile {
   }
 
   public static printProfile(): void {
-    console.log(`Name: ${this.name}`)
-    console.log(`Role: ${this.role}`)
+    console.log(`I'm ${this.name}, a${this.role}`)
     console.log(`Skills: ${this.skills.join(', ')}`)
     
     console.log(`\nMother Tongue FE:`)
