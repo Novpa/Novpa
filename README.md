@@ -1,32 +1,32 @@
 ```typescript
 class NovpaGithubProfile {
-  private static name = 'Novpa'
-  public static role = 'Software Engineer'
-  public static motherTongueFE: string[] = ["English"]
-  public static motherTongueBE: string[] = ["Logic"]
-  public static skills = ["Debugging in Stack Overflow with no AI"]
-  public static totalProjects = 5
+    private static name = 'Novpa'
+    public static role = 'Software Engineer'
+    public static motherTongueFE: string[] = ["English"]
+    public static motherTongueBE: string[] = ["Logic"]
+    public static skills = ["Debugging in Stack Overflow with no AI"]
+    public static totalProjects = 5
 
-  constructor() {}
+    constructor() {}
 
-  public static addLanguage(language: string, type: "BE" | "FE"): void {
-    if (type === "BE") {
-      this.motherTongueBE.push(language)
-    } else if (type === "FE") {
-      this.motherTongueFE.push(language)
+    public static addLanguage(language: string, type: "BE" | "FE"): void {
+        if (type === "BE") {
+            this.motherTongueBE.push(language)
+        } else if (type === "FE") {
+            this.motherTongueFE.push(language)
+        }
     }
-  }
-
-  public static printProfile(): void {
-    console.log(`I'm ${this.name}, a${this.role}`)
-    console.log(`Skills: ${this.skills.join(', ')}`)
+  
+    public static printProfile(): void {
+        console.log(`I'm ${this.name}, a${this.role}`)
+        console.log(`Skills: ${this.skills.join(', ')}`)
+        
+        console.log(`\nMother Tongue FE:`)
+        this.motherTongueFE.forEach(lang => console.log(`> ${lang}`))
     
-    console.log(`\nMother Tongue FE:`)
-    this.motherTongueFE.forEach(lang => console.log(`> ${lang}`))
-
-    console.log(`\nMother Tongue BE:`)
-    this.motherTongueBE.forEach(lang => console.log(`> ${lang}`))
-  }
+        console.log(`\nMother Tongue BE:`)
+        this.motherTongueBE.forEach(lang => console.log(`> ${lang}`))
+    }
 }
 
 const feSkills = ["TypeScript", "React.js", "Next.js", "Tailwind"]
