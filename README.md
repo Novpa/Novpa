@@ -1,4 +1,4 @@
-```
+```typescript
 class NovpaGithubProfile {
   private static name = 'Novpa'
   public static role = 'Software Engineer'
