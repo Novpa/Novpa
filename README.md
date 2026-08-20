@@ -29,7 +29,7 @@ class NovpaGithubProfile {
     }
 }
 
-const feSkills = ["TypeScript", "React.js", "Next.js", "Tailwind"]
+const feSkills = ["TypeScript", "React.js", Vue.js, "Next.js", "Tailwind"]
 const beSkills = ["Node.js", "Express.js", "SQL", "NoSQL", "Git", "Docker", "Redis"]
 
 feSkills.forEach(skill => NovpaGithubProfile.addLanguage(skill, "FE"))
